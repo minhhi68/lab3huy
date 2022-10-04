@@ -5,8 +5,8 @@ export default function News() {
         <div class='news-container'>
             <div class='news-field'>
                 <div class='title'>
-                    <h2>News</h2>
-                   <p>Welcome to News, we will update this section later.</p>
+                    <h2>Our News</h2>
+                   <p>Nguyen Minh Huy - SE161323 &copy; Made possible with love</p>
                 </div>
             </div>
         </div>

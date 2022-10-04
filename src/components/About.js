@@ -5,8 +5,8 @@ export default function About() {
         <div class='about-container'>
             <div class='about-field'>
                 <div class='title'>
-                    <h2>About</h2>
-                    <p>Welcome to our website, we will update this section later.</p>
+                    <h2>About Us</h2>
+                    <p>Nguyen Minh Huy - SE161323 &copy; Made possible with love.</p>
                 </div>
             </div>
         </div>

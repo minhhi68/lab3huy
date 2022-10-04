@@ -5,8 +5,8 @@ export default function Contact() {
         <div class='news-container'>
             <div class='news-field'>
                 <div class='title'>
-                    <h2>Contact</h2>
-                   <p>Welcome to Contact, we will update this section later.</p>
+                    <h2>Contact Us</h2>
+                   <p>Nguyen Minh Huy - SE161323 &copy; Made possible with love</p>
                 </div>
             </div>
         </div>

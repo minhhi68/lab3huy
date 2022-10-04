@@ -32,7 +32,7 @@ export default function displayFilms({ films }) {
                             <button onClick={() => {
                                 setFilm(films);
                             }}>
-                                <a href='#popup-container' id='openPopUp'>Detail</a>
+                                <a href='#popup-container' id='openPopUp'>Show me more</a>
                             </button>
                         </p>
                     </div>
